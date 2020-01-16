@@ -12,3 +12,13 @@
 * Hello **markdown** B
 * Hello ***markdown*** I+B
 * Hello ~~markdown~~ delete line
+
+---
+
+<https://google.com>
+
+[Google](https://google.com)
+
+---
+
+Hello `markdown`
