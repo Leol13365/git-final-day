@@ -6,3 +6,9 @@
 ###### Header6
 
 > 插入柱姊
+
+
+Hello *markdown* I
+Hello **markdown** B
+Hello ***markdown*** I+B
+Hello __markdown__ delete line
