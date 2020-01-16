@@ -22,3 +22,22 @@
 ---
 
 Hello `markdown`
+
+---
+
+```
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+
+```
+
+```python
+def hello():
+    print('hello world')
+
+hello()
+```
