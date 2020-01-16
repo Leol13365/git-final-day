@@ -41,3 +41,7 @@ def hello():
 
 hello()
 ```
+
+---
+
+![](./kaodon.jpg)
