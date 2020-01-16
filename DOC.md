@@ -45,3 +45,6 @@ hello()
 ---
 
 ![](./kaodon.jpg)
+[Go to Header1](#Header1)
+
+[Go to a](a.md)
